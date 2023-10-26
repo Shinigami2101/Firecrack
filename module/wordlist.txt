@@ -1,2 +1,2 @@
-add your wordlist here
-minim of 5 line
+wordlist -m 2 -M 6 -o PASS.txt 21012006
+cat PASS.txt
